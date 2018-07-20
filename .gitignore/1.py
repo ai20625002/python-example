@@ -1,5 +1,5 @@
 temp = input("请输入你的年龄")
-age = temp
+age = int(temp)
 if age >=18:
   print ("你已经成年了")
 else:
